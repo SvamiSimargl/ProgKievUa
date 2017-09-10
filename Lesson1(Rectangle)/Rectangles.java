@@ -1,4 +1,4 @@
-package HW_1;
+package lesson1_rectangles;
 
 import java.util.ArrayList;
 
