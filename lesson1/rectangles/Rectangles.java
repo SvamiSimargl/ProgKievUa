@@ -21,7 +21,7 @@ public class Rectangles {
     public double getTotalSumm() {
         double totalSumm = 0;
         for (int i = 0; i < rectangles.size(); i++) {
-            totalSumm += rectangles.get(i).Area();
+            totalSumm += rectangles.get(i).area();
 
         }
         return totalSumm;
